@@ -1,1 +1,1 @@
-"# OV7670_ESP32S" 
+OV7670 (no FIFO) connect to ESP32
